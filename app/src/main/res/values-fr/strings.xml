@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SalehFragment</string>
+    <string name="btnProductinfo" translatable="false">"INFO PRODUIT "</string>
+    <string name="btnOwnerInfo">INFO DU PROPRIO</string>
+    <string name="fragment_owner_info">Information du Produit</string>
+</resources>

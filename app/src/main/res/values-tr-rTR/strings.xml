@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SalehFragment</string>
+    <string name="btnProductinfo">URUN BILGILERI</string>
+    <string name="btnOwnerInfo">SAHIP BILGISI</string>
+    <string name="fragment_owner_info">Urun Bilgisi</string>
+</resources>

@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "121242093509",
+    "project_id": "ahmadoufragment",
+    "storage_bucket": "ahmadoufragment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121242093509:android:70a41cf146e163eb7c2dac",
+        "android_client_info": {
+          "package_name": "com.NizamHouse.AhmadouFragment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121242093509-sj8igmqjtleb10cav9ea9o6l8b8jp0nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIO1jU_4TUP4MI78aGYrDiHebg0UaCobY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121242093509-sj8igmqjtleb10cav9ea9o6l8b8jp0nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121242093509:android:0ad6bab75e01d7807c2dac",
+        "android_client_info": {
+          "package_name": "hr.tvz.android.ahmadoufragment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121242093509-sj8igmqjtleb10cav9ea9o6l8b8jp0nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIO1jU_4TUP4MI78aGYrDiHebg0UaCobY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121242093509-sj8igmqjtleb10cav9ea9o6l8b8jp0nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121242093509:android:659ce05e1e6beaae7c2dac",
+        "android_client_info": {
+          "package_name": "hr.tvz.android.salehfragment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121242093509-sj8igmqjtleb10cav9ea9o6l8b8jp0nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIO1jU_4TUP4MI78aGYrDiHebg0UaCobY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121242093509-sj8igmqjtleb10cav9ea9o6l8b8jp0nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
